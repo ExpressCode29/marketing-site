@@ -326,7 +326,9 @@ class Gimme extends TextStage {
     padding-bottom: 5px;
     margin: 0px;
 ">Submit</p></button>
+		<p style="font-size: 25px">To be clear: we actually have $50 to give away & this is approved by WHS admin. We promise to never spam you & we'll delete your number on Thursday.</p>
 		<p style="font-size: 15px">(We promise to never spam you, and your number will be deleted from our system on Friday. We'll also reveal who we are.)</p>
+		
 		`}
 
 	script() { return function() {
