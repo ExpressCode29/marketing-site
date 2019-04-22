@@ -83,6 +83,13 @@ color: ${color}
   }
 }
 
+class EpilWarning extends TextStage {
+ text() { return 'warning: fast flashing lights.'}
+ delay() { return 2000 } 
+}
+
+
+
 class IntroPreface0 extends TextStage {
   text() { return '...' }
 }

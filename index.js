@@ -1,5 +1,6 @@
 const root = document.getElementById('root')
 const config = [
+  EpilWarning,
   IntroPreface0,
   IntroPreface1,
   IntroPreface2,
