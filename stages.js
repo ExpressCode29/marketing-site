@@ -85,7 +85,7 @@ color: ${color}
 
 class EpilWarning extends TextStage {
  text() { return 'warning: fast flashing lights.'}
- delay() { return 2000 } 
+ delay() { return 3000 } 
 }
 
 
